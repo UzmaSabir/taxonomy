@@ -1,0 +1,20 @@
+created_by: 
+domain: animals
+seed_examples: 
+- answer: Indian elephant is smaller than African elephant.
+
+  question: Difference between Asian and African elephant 
+- answer: | It is 3.2 m
+  question: What is Indian elephant male shoulder hight 
+- answer: | It is 2.54
+  question: What is indian elephant female shoulder hight 
+- answer: | It weighing up to 5400
+  question: How much Indian male elephant weighing
+- answer: | It whining up to 4160
+  question:  How much Indian female elephant weighing
+task_description: ' '
+document: 
+ repo: https://github.com/juliadenham/Summit_knowledge
+ commit: c27198540420e4379310b308840969f4217d7707
+ patterns:
+   - indian_elephant.md
